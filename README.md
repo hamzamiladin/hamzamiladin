@@ -8,13 +8,7 @@ Full-Stack & Application Security Engineer. Building AI-powered security tooling
 </div>
 
 <p align="center">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
-  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp;
-  <img alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">&nbsp;
-  <img alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;
-  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;
-  <img alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">&nbsp;
-  <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img src="https://skillicons.dev/icons?i=python,typescript,rust,cs,react,nextjs,docker&theme=dark" alt="skills"/>
 </p>
 
 ##
